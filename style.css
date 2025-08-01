@@ -1,0 +1,168 @@
+
+.rg{
+  
+     text-align: center;
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.form{
+    display: block;
+    width: 80%;
+    max-width: 900px;
+    margin: 40px auto;
+    border: 1px solid rgb(249, 248, 248);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px black;
+    background-color: white;
+    
+    
+
+ 
+}
+    
+
+.form-group{
+font-size: 18px;
+font-weight: 700px;
+
+
+}
+.form-row{
+display: block;
+margin-left: 300px;
+margin-top:-95px ;
+font-size: 18px;
+  
+}
+select{
+    border-left: none;
+    border-top: none;
+    border-right: none;
+   border-bottom-color: rgb(3, 50, 3);
+   font-weight: bold;
+   color: rgb(92, 91, 91);
+}
+.timing{
+    display: block;
+margin-left: 550px;
+margin-top:-95px ;
+font-size: 18px;
+  
+
+}
+.name{
+
+  
+}
+.pname{
+    display: block;
+margin-left: 300px;
+margin-top:-95px ;
+
+  
+}
+.email{
+    display: block;
+margin-left: 550px;
+margin-top:-95px ;
+
+  
+}
+.number{
+
+}
+.cname{
+    display: block;
+margin-left: 300px;
+margin-top:-95px ;
+
+  
+}
+
+
+.cb{
+    display: block;
+margin-left: 550px;
+margin-top:-95px ;
+
+  
+}
+.Gender{
+font-size: 18px;
+
+  outline: none;
+  background-color: white
+}
+.birth{
+        display: block;
+margin-left: 300px;
+margin-top:-95px ;
+font-size: 18px;
+
+}
+.Qualification{
+        display: block;
+margin-left: 550px;
+margin-top:-95px ;
+font-size: 18px;
+
+  border-bottom: 16px;
+
+
+}
+.padress input{
+   border: none;
+  border-bottom: 2px solid rgb(59, 126, 59); 
+  width: 100%;
+  padding: 8px;
+  outline: none;
+  font-size: 19px;
+
+}
+label{
+    font-weight: bold;
+    color: rgb(82, 81, 81);
+}
+
+
+
+.profile{
+    font-size: 18px;
+ 
+}  
+input{
+border-top: none;
+border-left: none;
+border-right: none;
+ border-bottom: 2px solid rgb(56, 113, 56);
+font-size: 16px;
+outline: none;
+}
+.file{
+       border: 1px dotted white;
+    
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+ 
+   
+}
+button{
+    width: 300px;
+    padding: 20px;
+    margin-left: 300px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    border: 1px  solid white;
+    font-weight: bold
+   
+}
+select{
+    font-size: 14px;
+}
